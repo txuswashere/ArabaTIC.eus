@@ -10,17 +10,19 @@
 
 # Un mundo sin WordPress es posible: los CMS sin bases de datos ya están entre nosotros
 * Jon Rivas (Caronte Web Estudio)
+* https://carontestudio.com
 
 #### ¿Es WordPress adecuado para cualquier proyecto web? ¿Necesitan todas las webs una base de datos obligatoriamente? Responderemos a estas preguntas, y a muchas otras, en esta charla orientada a presentar una alternativa real al todopoderoso WordPress.
 
 #### No se trata de "estar en Internet", sino de destacar frente a la competencia. Un CMS sin base de datos puede aportar una serie de valores diferenciales a un proyecto: 
-* velocidad de carga
-* facilidad de mantenimiento
-* agilidad a la hora de gestionar contenidos
-* desarrollos más económicos
+   * velocidad de carga
+   * facilidad de mantenimiento
+   * agilidad a la hora de gestionar contenidos
+   * desarrollos más económicos
 
 # Análisis de datos: saca provecho a los datos de tu negocio con Power BI
 * Inés Pascual (Mondragon Unibertsitatea)
+* https://www.mondragon.edu
 
 #### En esta sesión podremos conocer el potencial de la herramienta Power BI, que es un conjunto de aplicaciones para analizar grandes y pequeños volúmenes de datos. Veremos cómo se pueden extraer datos de diferentes fuentes y visualizarlos en un formato cómodo y medible.
 
@@ -29,6 +31,7 @@
 
 # Seguridad empresarial frente al Open Source Intelligence (OSINT)
 * Juan Antonio Calles (Osane Consulting)
+* https://www.osaneconsulting.com/
 
 
 #### En internet hay abundante información disponible de nuestras empresas, ya sea la publicada por la propia organización como la publicada por otro tipo de entidades o por los propios empleados. Esta información, pública y al alcance de cualquiera, puede constituir un riesgo a menudo desconocido y por tanto no evaluado ni tenido en cuenta en los planes de seguridad de la empresa.
@@ -40,7 +43,9 @@
 
 # La información geográfica como factor diferencial y ventaja competitiva para nuestro negocio
 * Lorenzo Díaz de Apodaca (Airestudio Geoinformation Technologies) 
+* www.airestudio.es
 * Ion Martínez de Ilarduya (GeoEuskadi, Gobierno Vasco)
+* www.geo.euskadi.eus
 
 
 #### Cada vez hay disponible más geoinformación en formato digital sobre nuestro territorio, nuestras ciudades, nuestras propiedades... El aprovechamiento de esta información localizada geográficamente ha pasado de ser una opción a una necesidad que puede aportar un factor diferencial en el desarrollo de proyectos y explotación de datos de una forma más rápida y eficiente.
@@ -50,7 +55,7 @@
 
 # Seguridad en la empresa: fortaleciendo el eslabón más débil
 * Iñigo Carrera (Derten Sistemas)
-
+* https://derten.com
 
 #### En los últimos meses se ha incrementado la presión por parte de los ciberdelincuentes contra el personal de las empresas, siendo estos presas fáciles de dichos ciberdelincuentes ya que, en muchos casos, no han recibido o no están recibiendo la formación adecuada.
 
@@ -58,7 +63,7 @@
 
 # No estás aprovechando el potencial de la publicidad online... y lo sabes!
 * Pablo Jiménez (otromarketing.es)
-
+* www.otromarketing.es
 
 #### El marketing digital ofrece un conjunto de herramientas y posibilidades muy amplio para conseguir los objetivos comerciales de cualquier organización.
 
@@ -66,7 +71,7 @@
 
 # Software testing: 1, 2, 3, probando probando
 * Eneritz Zubizarreta (Globe Testing)
-
+* https://www.globetesting.com
 
 #### A todos nos ha pasado, empiezas una conversación por teléfono y dices "¿me escuchas?", o vas a empezar un charla en público y dices "1, 2, 3, probando probando...". Es como sino nos fiáramos de una tecnología que lleva entre nosotros decenas de años...
 
@@ -80,7 +85,8 @@
 
 # Blockchain, la tecnología que transformará tu negocio
 * Óscar Lage (Tecnalia)
-
+* https://www.tecnalia.com/
+* https://www.cyberssbytecnalia.com/
 
 #### Blockchain es la tecnología más disruptiva de la actualidad, y por ello se espera que tal y como en su día ocurrió con internet vuelva a ser un nuevo punto de partida en el que tanto PYMES como grandes empresas tengan que partir de cero, lo que puede provocar cambios radicales en nuestro tejido empresarial. Precisamente por este motivo en el último año el interés por la misma no ha parado de aumentar.
 
