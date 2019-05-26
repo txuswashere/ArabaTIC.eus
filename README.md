@@ -14,10 +14,10 @@
 #### ¿Es WordPress adecuado para cualquier proyecto web? ¿Necesitan todas las webs una base de datos obligatoriamente? Responderemos a estas preguntas, y a muchas otras, en esta charla orientada a presentar una alternativa real al todopoderoso WordPress.
 
 #### No se trata de "estar en Internet", sino de destacar frente a la competencia. Un CMS sin base de datos puede aportar una serie de valores diferenciales a un proyecto: 
-    * velocidad de carga
-    * facilidad de mantenimiento
-    * agilidad a la hora de gestionar contenidos
-    * desarrollos más económicos
+* velocidad de carga
+* facilidad de mantenimiento
+* agilidad a la hora de gestionar contenidos
+* desarrollos más económicos
 
 # Análisis de datos: saca provecho a los datos de tu negocio con Power BI
 * Inés Pascual (Mondragon Unibertsitatea)
@@ -39,7 +39,8 @@
 
 
 # La información geográfica como factor diferencial y ventaja competitiva para nuestro negocio
-* Lorenzo Díaz de Apodaca (Airestudio Geoinformation Technologies) y Ion Martínez de Ilarduya (GeoEuskadi, Gobierno Vasco)
+* Lorenzo Díaz de Apodaca (Airestudio Geoinformation Technologies) 
+* Ion Martínez de Ilarduya (GeoEuskadi, Gobierno Vasco)
 
 
 #### Cada vez hay disponible más geoinformación en formato digital sobre nuestro territorio, nuestras ciudades, nuestras propiedades... El aprovechamiento de esta información localizada geográficamente ha pasado de ser una opción a una necesidad que puede aportar un factor diferencial en el desarrollo de proyectos y explotación de datos de una forma más rápida y eficiente.
